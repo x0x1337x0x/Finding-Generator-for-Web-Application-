@@ -16,6 +16,13 @@ The tool is designed to be used during or immediately after an engagement, reduc
 **Intended users:** Penetration testers, red teamers, bug bounty hunters, security consultants, and students learning web application security.
 
 ---
+## Screentshot
+
+![Dashboard](<Dashboard worksheet.png>)
+
+![Details Finding](<Details findings worksheet.png>)
+
+![Summary Findings](<Summary Finding worksheet.png>)
 
 ## Files
 - `PentestFindingGenerator.xlsm` — Main workbook (macro-enabled Excel)
