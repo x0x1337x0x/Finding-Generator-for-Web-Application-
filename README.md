@@ -16,7 +16,7 @@ The tool is designed to be used during or immediately after an engagement, reduc
 **Intended users:** Penetration testers, red teamers, bug bounty hunters, security consultants, and students learning web application security.
 
 ---
-## Screentshot
+## Screenshot
 
 ![Dashboard](<Dashboard worksheet.png>)
 
