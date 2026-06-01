@@ -1,4 +1,7 @@
 # Pentest Finding Generator — Excel VBA Tool
+## New update plan
+
+intergrate the finding with Power App + sharepoint + Power automate for better view.
 
 ## Purpose
 
